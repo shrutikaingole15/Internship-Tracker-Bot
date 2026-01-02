@@ -169,13 +169,9 @@ This project demonstrates:
 - System-oriented thinking over one-off scripts
 
 It is actively used as a **personal productivity system**, not just a demo.
-<<<<<<< HEAD
-=======
-
----
 
 ## 📌 License
 
 This project is open for learning and personal use.  
 Feel free to fork, modify, and adapt it for your own workflow.
->>>>>>> f8214b3bcf60c2caa86d08c86b801c81a3f31e74
+

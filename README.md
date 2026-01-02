@@ -98,23 +98,27 @@ internship-tracker-bot/
 ```bash
 git clone https://github.com/<your-username>/internship-tracker-bot.git
 cd internship-tracker-bot
+```
 
 ### 2️⃣ Create a .env file
-```bash
-Create a file named .env in the root directory:
 
+Create a file named .env in the root directory:
+```bash
 BOT_TOKEN=your_telegram_bot_token
 CHAT_ID=your_chat_id
-
+```
 
 ⚠️ This file is ignored by Git and must not be committed.
 
 3️⃣ Install dependencies
 ```bash
 pip install python-telegram-bot python-dotenv
+```
 
 4️⃣ Run the bot
+```bash
 python bot.py
+```
 
 
 Open Telegram and start chatting with your bot.

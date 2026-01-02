@@ -96,7 +96,7 @@ internship-tracker-bot/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/internship-tracker-bot.git
+git clone https://github.com/shrutikaingole15/Internship-Tracker-Bot.git
 cd internship-tracker-bot
 ```
 
